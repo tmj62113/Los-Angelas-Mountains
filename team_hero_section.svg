@@ -1,0 +1,18 @@
+<svg id="Text" xmlns="http://www.w3.org/2000/svg" width="880" height="194" viewBox="0 0 880 194">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 11.264px;
+        fill: #414f6b;
+        font-family: Oswald;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <text id="_HISTORY" data-name=" HISTORY" class="cls-1" transform="translate(114.881 93.711) scale(2.841)"> HISTORY</text>
+  <text id="_01." data-name="01." class="cls-2" transform="translate(-5.194 122.576) scale(12.041)">01.</text>
+</svg>
